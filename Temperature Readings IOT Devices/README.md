@@ -3,10 +3,9 @@
 Info :
 
 Context
-Technology has many effects on the transportation industry.
+IIoT 4.0 is coming to cover all enterprise monitoring and maintenance system. Thus, we need bold and sustainable algorithms and approaches to analyze the IOT sensor data and find hidden patterns and insights. Heat Index ( temperature + humidity ) is one common data recorded on these IOT readers. The frequency of the upcoming data is very fast. The sensor reads hundreds to millions of data per second. There is a huge and versatile application of this data in real world. like:- Agriculture, weather forecasting, soil monitoring and treatment, enterprise maintenance, Data centres, and many more…
 
-Content
-We have provided an accurate dataset describing a complete year (from 01/07/2013 to 30/06/2014) of the trajectories for all the 442 taxis running in the city of Porto, in Portugal (i.e. one CSV file named "train.csv"). These taxis operate through a taxi dispatch central, using mobile data terminals installed in the vehicles. We categorize each ride into three categories: A) taxi central based, B) stand-based or C) non-taxi central based. For the first, we provide an anonymized id, when such information is available from the telephone call. The last two categories refer to services that were demanded directly to the taxi drivers on a B) taxi stand or on a C) random street.
+Heat stress index of India
 
-Reference : https://www.kaggle.com/datasets/crailtap/taxi-trajectory
+Reference : https://www.kaggle.com/datasets/atulanandjha/temperature-readings-iot-devices
 ```

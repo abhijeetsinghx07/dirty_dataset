@@ -7,4 +7,4 @@ This data was collected by non-data-centric professionals. They have sometimes u
 Reference : https://foresightbi.com.ng/microsoft-power-bi/dirty-data-samples-to-practice-on/
 ```
 
-![alt text](<../Hospital Data With Mixed Numbers and Characters/7.jpg>)
+![alt text](3.jpg)
